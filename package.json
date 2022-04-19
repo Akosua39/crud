@@ -1,0 +1,11 @@
+{
+  "name": "Day2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Louisa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0"
+  }
+}
